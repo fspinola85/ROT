@@ -2,7 +2,7 @@
  * @file rot.c
  * @author fspinola85 (fspinola8@gmail.com)
  * @brief A simple program to enrypt and decrypt messages or text files, using Ceaser Cipher.
- * @version 1.0
+ * @version 1.1
  * 
  * @copyright Copyright (c) 2020 fspinola85
  */
