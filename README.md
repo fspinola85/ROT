@@ -28,6 +28,9 @@ Commands:<br>
         -f, --file [FILENAME]           Specify the input file you want to encrypt or decrypt<br>
 
 # Release Notes
+1.1 (16/08/2021)
+- Fixed encryption/decryption bug, where this process would fail when using specific special characters
+
 1.0 (04/10/2020)
 - Encrypt/Decrypt any message
 - Encrypt/Decrypt any text from an input file
